@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "PPAP (Pen-Pineapple-Apple-Pen)",
+  "base_artist": "ピコ太郎",
+  "createdAt": "2025-12-17T02:47:53.210846Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "PPAP(Pen-Pineapple-Apple-Pen)",
+      "artist": "PIKOTARO",
+      "has_synced": true,
+      "path": "select/01_PPAP(Pen-Pineapple-Apple-Pen)_PIKOTARO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "PPAP Pen Pineapple Apple Pen",
+      "artist": "Piko Taro",
+      "has_synced": true,
+      "path": "select/02_PPAP_Pen_Pineapple_Apple_Pen_Piko_Taro.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "PPAP(Pen-Pineapple-Apple-Pen) - Long ver.",
+      "artist": "PIKOTARO",
+      "has_synced": true,
+      "path": "select/03_PPAP(Pen-Pineapple-Apple-Pen)_-_Long_ver._PIKOTARO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "PPAP(Pen-Pineapple-Apple-Pen)",
+      "artist": "PIKOTARO",
+      "has_synced": true,
+      "path": "select/04_PPAP(Pen-Pineapple-Apple-Pen)_PIKOTARO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "PPAP (Pen-Pineapple-Apple-Pen)",
+      "artist": "PIKOTARO",
+      "has_synced": true,
+      "path": "select/05_PPAP_(Pen-Pineapple-Apple-Pen)_PIKOTARO.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "PPAP (Pen-Pineapple-Apple-Pen)",
+      "artist": "Piko-Taro",
+      "has_synced": true,
+      "path": "select/06_PPAP_(Pen-Pineapple-Apple-Pen)_Piko-Taro.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "PPAP(Pen-Pineapple-Apple-Pen) - Long ver.",
+      "artist": "PIKOTARO",
+      "has_synced": true,
+      "path": "select/07_PPAP(Pen-Pineapple-Apple-Pen)_-_Long_ver._PIKOTARO.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ppap Pen-Pineapple-Apple-Pen",
+      "artist": "Yellow Asia",
+      "has_synced": true,
+      "path": "select/08_Ppap_Pen-Pineapple-Apple-Pen_Yellow_Asia.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "PPAP(Pen-Pineapple-Apple-Pen) (Long ver.)",
+      "artist": "PIKOTARO",
+      "has_synced": true,
+      "path": "select/09_PPAP(Pen-Pineapple-Apple-Pen)_(Long_ver.)_PIKOTARO.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ppap Pen Pineapple Apple Pen",
+      "artist": "Ppap Pineapple Pen",
+      "has_synced": true,
+      "path": "select/10_Ppap_Pen_Pineapple_Apple_Pen_Ppap_Pineapple_Pen.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "PPAP (Pen Pineapple Apple Pen) (Long Version)",
+      "artist": "PIKOTARO",
+      "has_synced": true,
+      "path": "select/11_PPAP_(Pen_Pineapple_Apple_Pen)_(Long_Version)_PIKOTARO.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "PPAP (Pen Pineapple Apple Pen) - Long Version",
+      "artist": "PIKOTARO",
+      "has_synced": true,
+      "path": "select/12_PPAP_(Pen_Pineapple_Apple_Pen)_-_Long_Version_PIKOTARO.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ppap Pen Pineapple Apple Pen - Extended DJ Mix",
+      "artist": "Ppap Pineapple Pen",
+      "has_synced": true,
+      "path": "select/13_Ppap_Pen_Pineapple_Apple_Pen_-_Extended_DJ_Mix_Ppap_Pineapple_Pen.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "PPAP (Pen-Pineapple-Apple-Pen) [Long Version]",
+      "artist": "Piko-Taro",
+      "has_synced": true,
+      "path": "select/14_PPAP_(Pen-Pineapple-Apple-Pen)_[Long_Version]_Piko-Taro.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "PPAP (Pen Pineapple Apple Pen) (Long Version)",
+      "artist": "Pikotaro",
+      "has_synced": true,
+      "path": "select/15_PPAP_(Pen_Pineapple_Apple_Pen)_(Long_Version)_Pikotaro.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "PPAP - Pen Pineapple Apple Pen - Taqo Remix Radio",
+      "artist": "PIKOTARO",
+      "has_synced": false,
+      "path": "select/16_PPAP_-_Pen_Pineapple_Apple_Pen_-_Taqo_Remix_Radio_PIKOTARO.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "PPAP(Pen-Pineapple-Apple-Pen)",
+      "artist": "ピコ太郎",
+      "has_synced": false,
+      "path": "select/pl_01_PPAP(Pen-Pineapple-Apple-Pen)_ピコ太郎.txt"
+    }
+  ]
+}
